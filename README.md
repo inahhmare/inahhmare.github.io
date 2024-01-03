@@ -9,13 +9,5 @@ Inah Marie D. Paghubasan
 ![Facade](https://github.com/inahhmare/inahhmare.github.io/assets/151594345/aaea703d-0317-434e-b1ba-c9a798cb3b3f)
 **An Evening with Silk Sonic**
 - An Evening with Silk Sonic is the debut studio album by American musical super-duo Silk Sonic, composed of Bruno Mars and Anderson.Paak. It was released on November 12, 2021, by Aftermath Entertainment and Atlantic Records. An Evening with Silk Sonic delves into themes present in previous albums by Mars, including materialism, "seduction, romance," and reconciliation. It is reported that Anderson Paak has not written on materialism before.
-<div class="embed-spotify-list">
-<iframe style="border-radius:12px" src="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C?si=towxHOtLTBuji6T0_5r1LQ" width="100%" 
- height="352" 
- frameBorder="0" 
-allowfullscreen="" 
- allow="autoplay; 
- clipboard-write; 
- encrypted-media; 
- fullscreen; picture-in-picture" 
- loading="lazy"></iframe>
+<div class="embed-spotify-list">    
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0du5cEVh5yTK9QJze8zA0C?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
